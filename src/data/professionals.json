@@ -1,0 +1,45 @@
+{
+  "professionals": [
+    {
+      "name": "Aravind Agrawal",
+      "job": "IAS Officer",
+      "address": "Kantabanji",
+      "image": "",
+      "sex": "male",
+      "contact": "1234567890"
+    },
+    {
+      "name": "Pankaj Agrawal",
+      "job": "Chartered Account",
+      "address": "Kantabanji",
+      "image": "",
+      "sex": "male",
+      "contact": "1234567890"
+    },
+    {
+      "name": "Preeti Agrawal",
+      "job": "Chartered Account",
+      "address": "Kantabanji",
+      "image": "",
+      "sex": "female",
+      "contact": "1234567890"
+    },
+
+    {
+      "name": "Bibekanand Jindal",
+      "job": "Doctor",
+      "address": "Kantabanji",
+      "image": "",
+      "sex": "male",
+      "contact": "1234567890"
+    },
+    {
+      "name": "Milind Agrawal",
+      "job": "Technology Lead",
+      "address": "Kantabanji",
+      "image": "",
+      "sex": "male",
+      "contact": "1234567890"
+    }
+  ]
+}
